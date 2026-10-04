@@ -1,210 +1,86 @@
 <p align="center">
   <img src="GitBanner.png" width="100%">
 </p>
+<!-- 1. KEEP YOUR EXISTING BANNER: paste your current banner image line here -->
+<!-- It looks like: ![banner](your-image-url-or-path) -->
 
-<p align="center">
-  <i>"I believe that the obsessed can outsmart the talented."</i>
-</p>
+<div align="center">
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=620&height=50&lines=%3E+loading+intelligence...;%3E+thinking...;%3E+creating..." alt="typing animation" />
 
-<h2>WHO AM I</h2>
+*"I believe that the obsessed can outsmart the talented."*
 
-<p>
-I'm Srishti — an AI enthusiast fascinated by how intelligence can be built, understood, and pushed beyond its limits.
-I enjoy learning how AI systems work, experimenting with new ideas, and turning what I learn into something real.
-</p>
+</div>
 
-<br>
+---
 
-<h2>WHAT I DO</h2>
+## WHO AM I
 
-<p>
+I'm Srishti — an AI enthusiast fascinated by how intelligence can be built, understood, and pushed beyond its limits. I enjoy learning how AI systems work, experimenting with new ideas, and turning what I learn into something real.
+
+## WHAT I DO
+
 I build and explore AI-powered applications with a focus on Generative AI, LLMs, RAG, and Agentic AI.
 I'm constantly experimenting, learning, and figuring out how to make intelligent systems more capable and useful.
-</p>
 
-<br>
 
-<h2>VISION</h2>
+## VISION
 
-<p>
 I want to build AI that doesn't just follow instructions, but understands, adapts, and creates.
 My goal is to keep pushing my understanding of intelligent systems and turn ambitious ideas into things that actually work.
-</p>
 
-  
+---
 
-<!-- ==================== SKILL SET ==================== -->
+### `> currently`
 
-<br>
+```text
+building  : [your current project]
+learning  : [e.g. agent frameworks, evals, fine-tuning]
+reading   : [a paper or book]
+```
 
-<h2>SKILL SET</h2>
+---
 
-<br>
+### `> stack`
 
-<!-- ==================== LANGUAGES ==================== -->
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<h3>LANGUAGES</h3>
+<!-- Add more: https://img.shields.io/badge/NAME-000000?style=for-the-badge&logo=NAME&logoColor=white -->
 
-<p>
-  <!-- Official technology logos -->
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="34" title="Python">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="34" title="C++">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="34" title="JavaScript">
-  &nbsp;&nbsp;
-  
-  <!-- SQL = conceptual/database icon -->
-  <img src="https://api.iconify.design/material-symbols:database.svg?color=%234479A1" width="34" title="SQL">
-  &nbsp;&nbsp;
-  
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="34" title="Bash">
-</p>
+---
 
-<p>
-Python &nbsp;·&nbsp; C++ &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Bash
-</p>
+### `> projects --featured`
 
-<br>
+| project | what it does | stack |
+|---|---|---|
+| [**project-one**](https://github.com/Srishti233/project-one) | One line: what problem it solves | Python, RAG |
+| [**project-two**](https://github.com/Srishti233/project-two) | One line: what problem it solves | LLM, agents |
+| [**project-three**](https://github.com/Srishti233/project-three) | One line: what problem it solves | PyTorch |
 
+---
 
-<!-- ==================== AI / ML ==================== -->
+### `> stats`
 
-<h3>AI / MACHINE LEARNING</h3>
+<div align="center">
 
-<p>
-  <!-- Conceptual icons -->
-  <img src="https://api.iconify.design/material-symbols:auto-awesome.svg?color=%238E44AD" width="34" title="Generative AI">
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/material-symbols:smart-toy.svg?color=%23FF6F00" width="34" title="Agentic AI">
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/material-symbols:psychology.svg?color=%236A1B9A" width="34" title="LLMs">
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/material-symbols:hub.svg?color=%23009688" width="34" title="RAG">
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/material-symbols:language.svg?color=%234285F4" width="34" title="NLP">
-  &nbsp;&nbsp;
-  
-  <!-- Deep Learning = neural-network concept icon -->
-  <img src="https://api.iconify.design/material-symbols:account-tree.svg?color=%23E64A19" width="34" title="Deep Learning">
-</p>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Srishti233&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srishti233&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top languages" />
 
-<p>
-Generative AI &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; RAG<br>
-NLP &nbsp;·&nbsp; Deep Learning
-</p>
+</div>
 
-<br>
+---
 
+### `> contact`
 
-<!-- ==================== AI SECURITY ==================== -->
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srishtisoni436@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-8926-5245)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
 
-<h3>AI SECURITY</h3>
-
-<p>
-  <img src="https://api.iconify.design/material-symbols:security.svg?color=%23E53935" width="34" title="LLM Security">
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/material-symbols:input.svg?color=%23FB8C00" width="34" title="Prompt Injection">
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/material-symbols:bug-report.svg?color=%23D81B60" width="34" title="AI Red Teaming">
-</p>
-
-<p>
-LLM Security &nbsp;·&nbsp; Prompt Injection &nbsp;·&nbsp; AI Red Teaming
-</p>
-
-<br>
-
-
-<!-- ==================== AI INFRASTRUCTURE ==================== -->
-
-<h3>AI INFRASTRUCTURE</h3>
-
-<p>
-  <!-- Official LangChain logo -->
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="34" title="LangChain">
-  &nbsp;&nbsp;
-
-  <!-- Conceptual graph icon -->
-  <img src="https://api.iconify.design/material-symbols:account-tree.svg?color=%236D4C41" width="34" title="LangGraph">
-  &nbsp;&nbsp;
-
-  <!-- pgvector = vector/database concept -->
-  <img src="https://api.iconify.design/material-symbols:data-object.svg?color=%233F51B5" width="34" title="pgvector">
-  &nbsp;&nbsp;
-
-  <!-- Official Redis logo -->
-  <img src="https://cdn.simpleicons.org/redis/DC382D" width="34" title="Redis">
-</p>
-
-<p>
-LangChain &nbsp;·&nbsp; LangGraph &nbsp;·&nbsp; pgvector &nbsp;·&nbsp; Redis
-</p>
-
-<br>
-
-
-<!-- ==================== BLOCKCHAIN ==================== -->
-
-<h3>BLOCKCHAIN</h3>
-
-<p>
-  <!-- Conceptual icons -->
-  <img src="https://api.iconify.design/material-symbols:link.svg?color=%23627EEA" width="34" title="Blockchain">
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/material-symbols:description.svg?color=%23FF9800" width="34" title="Smart Contracts">
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/material-symbols:key.svg?color=%237B1FA2" width="34" title="Cryptography">
-</p>
-
-<p>
-Blockchain &nbsp;·&nbsp; Smart Contracts &nbsp;·&nbsp; Cryptography
-</p>
-
-<br>
-
-
-<!-- ==================== FRONTEND ==================== -->
-
-<h3>FRONTEND</h3>
-
-<p>
-  <!-- Official technology logos -->
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="34" title="HTML">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="34" title="CSS">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="34" title="JavaScript">
-</p>
-
-<p>
-HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; JavaScript
-</p>
-
-<br>
-
-
-<!-- ==================== TOOLS ==================== -->
-
-<h3>TOOLS</h3>
-
-<p>
-  <!-- Official technology logos -->
-  <img src="https://cdn.simpleicons.org/git/F05032" width="34" title="Git">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="34" title="Linux">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/fastapi/009688" width="34" title="FastAPI">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="34" title="Docker">
-</p>
-
-<p>
-Git &nbsp;·&nbsp; Linux &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Docker
-</p>
-
-<br>
-
-<!-- ==================== END SKILL SET ==================== -->
+```text
+> I can fix the world, but they won't give me the source code.
+```
