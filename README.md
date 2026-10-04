@@ -16,7 +16,11 @@
 
 ## WHO AM I
 
-I'm Srishti — an AI enthusiast fascinated by how intelligence can be built, understood, and pushed beyond its limits. I enjoy learning how AI systems work, experimenting with new ideas, and turning what I learn into something real.
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=000000&width=900&height=32&duration=2500&pause=0&repeat=false&lines=I+AM+SRISHTI%2C+AN+AI+ENTHVSIAST+FASCINATED+BY+HOW)
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=000000&width=900&height=32&duration=2500&pause=0&repeat=false&lines=INTELLIGENCE+CAN+BE+BVILT%2C+VNDERSTOOD%2C+AND+PVSHED)
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=000000&width=900&height=32&duration=2500&pause=0&repeat=false&lines=BEYOND+ITS+LIMITS.+I+ENJOY+LEARNING+HOW+AI+SYSTEMS+WORK%2C)
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=000000&width=900&height=32&duration=2500&pause=0&repeat=false&lines=EXPERIMENTING+WITH+NEW+IDEAS%2C+AND+TVRNING+WHAT+I+LEARN)
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=000000&width=900&height=32&duration=2500&pause=0&repeat=false&lines=INTO+SOMETHING+REAL.)
 
 ## WHAT I DO
 
@@ -34,35 +38,57 @@ My goal is to keep pushing my understanding of intelligent systems and turn ambi
 ### `> currently`
 
 ```text
-building  : [your current project]
-learning  : [e.g. agent frameworks, evals, fine-tuning]
-reading   : [a paper or book]
+building  : Something Intresting
+learning  : Something New
+reading   : The Alchemist
 ```
 
 ---
 
 ### `> stack`
 
+**Languages**<br>
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**AI / ML**<br>
+![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-000000?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-000000?style=for-the-badge)
+
+**AI Security**<br>
+![LLM Security](https://img.shields.io/badge/LLM_Security-000000?style=for-the-badge)
+![Prompt Injection](https://img.shields.io/badge/Prompt_Injection-000000?style=for-the-badge)
+![AI Red Teaming](https://img.shields.io/badge/AI_Red_Teaming-000000?style=for-the-badge)
+
+**AI Infrastructure**<br>
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![pgvector](https://img.shields.io/badge/pgvector-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
+
+**Blockchain**<br>
+![Blockchain](https://img.shields.io/badge/Blockchain-000000?style=for-the-badge)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-000000?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=for-the-badge)
+
+**Frontend**<br>
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+
+**Tools**<br>
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 
-<!-- Add more: https://img.shields.io/badge/NAME-000000?style=for-the-badge&logo=NAME&logoColor=white -->
-
----
-
-### `> projects --featured`
-
-| project | what it does | stack |
-|---|---|---|
-| [**project-one**](https://github.com/Srishti233/project-one) | One line: what problem it solves | Python, RAG |
-| [**project-two**](https://github.com/Srishti233/project-two) | One line: what problem it solves | LLM, agents |
-| [**project-three**](https://github.com/Srishti233/project-three) | One line: what problem it solves | PyTorch |
-
----
 
 ### `> stats`
 
@@ -75,12 +101,7 @@ reading   : [a paper or book]
 
 ---
 
-### `> contact`
-
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srishtisoni436@gmail.com)
-[![ORCID](https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-8926-5245)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
 
 ```text
-> I can fix the world, but they won't give me the source code.
+> trained on curiosity. fine-tuned by obsession.
 ```
