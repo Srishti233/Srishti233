@@ -38,12 +38,13 @@
 ![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=MY+GOAL+IS+TO+KEEP+PVSHING+MY+VNDERSTANDING+OF)
 ![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=INTELLIGENT+SYSTEMS+AND+TVRN+AMBITIOVS+IDEAS+INTO)
 ![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=THINGS+THAT+ACTVALLY+WORK.)
-### `> currently`
+### `> always`
 
 ```text
-building  : Something Intresting
-learning  : Something New
-reading   : The Alchemist
+building  : systems that understand, adapt, create
+learning  : forever
+breaking  : models, assumptions, my own code
+fixing    : what others call impossible
 ```
 
 ---
