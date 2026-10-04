@@ -14,27 +14,30 @@
 
 ---
 
-## WHO AM I
-
-![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=000000&width=900&height=32&duration=2500&pause=0&repeat=false&lines=I+AM+SRISHTI%2C+AN+AI+ENTHVSIAST+FASCINATED+BY+HOW)
-![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=000000&width=900&height=32&duration=2500&pause=0&repeat=false&lines=INTELLIGENCE+CAN+BE+BVILT%2C+VNDERSTOOD%2C+AND+PVSHED)
-![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=000000&width=900&height=32&duration=2500&pause=0&repeat=false&lines=BEYOND+ITS+LIMITS.+I+ENJOY+LEARNING+HOW+AI+SYSTEMS+WORK%2C)
-![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=000000&width=900&height=32&duration=2500&pause=0&repeat=false&lines=EXPERIMENTING+WITH+NEW+IDEAS%2C+AND+TVRNING+WHAT+I+LEARN)
-![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=000000&width=900&height=32&duration=2500&pause=0&repeat=false&lines=INTO+SOMETHING+REAL.)
-
-## WHAT I DO
-
-I build and explore AI-powered applications with a focus on Generative AI, LLMs, RAG, and Agentic AI.
-I'm constantly experimenting, learning, and figuring out how to make intelligent systems more capable and useful.
+<h2><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=26&color=FFFFFF&background=00000000&width=400&height=36&duration=2500&pause=0&repeat=false&lines=WHOAMI" alt="WHO AM I"></h2>
 
 
-## VISION
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=I+AM+SRISHTI%2C+AN+AI+ENTHVSIAST+FASCINATED+BY+HOW)
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=INTELLIGENCE+CAN+BE+BVILT%2C+VNDERSTOOD%2C+AND+PVSHED)
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=BEYOND+ITS+LIMITS.+I+ENJOY+LEARNING+HOW+AI+SYSTEMS+WORK%2C)
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=EXPERIMENTING+WITH+NEW+IDEAS%2C+AND+TVRNING+WHAT+I+LEARN)
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=INTO+SOMETHING+REAL.)
 
-I want to build AI that doesn't just follow instructions, but understands, adapts, and creates.
-My goal is to keep pushing my understanding of intelligent systems and turn ambitious ideas into things that actually work.
+<h2><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=26&color=FFFFFF&background=00000000&width=400&height=36&duration=2500&pause=0&repeat=false&lines=WHAT+I+DO" alt="WHAT I DO"></h2>
 
----
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=I+BVILD+AND+EXPLORE+AI-POWERED+APPLICATIONS+WITH+A)
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=FOCVS+ON+GENERATIVE+AI%2C+LLMS%2C+RAG%2C+AND+AGENTIC+AI.)
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=I+AM+CONSTANTLY+EXPERIMENTING%2C+LEARNING%2C+AND)
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=FIGVRING+OVT+HOW+TO+MAKE+INTELLIGENT+SYSTEMS+MORE)
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=CAPABLE+AND+VSEFVL.)
 
+<h2><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=26&color=FFFFFF&background=00000000&width=400&height=36&duration=2500&pause=0&repeat=false&lines=VISION" alt="VISION"></h2>
+
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=I+WANT+TO+BVILD+AI+THAT+DOES+NOT+JVST+FOLLOW)
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=INSTRVCTIONS%2C+BVT+VNDERSTANDS%2C+ADAPTS%2C+AND+CREATES.)
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=MY+GOAL+IS+TO+KEEP+PVSHING+MY+VNDERSTANDING+OF)
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=INTELLIGENT+SYSTEMS+AND+TVRN+AMBITIOVS+IDEAS+INTO)
+![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=THINGS+THAT+ACTVALLY+WORK.)
 ### `> currently`
 
 ```text
@@ -103,5 +106,5 @@ reading   : The Alchemist
 
 
 ```text
-> trained on curiosity. fine-tuned by obsession.
+> Trained on curiosity. fine-tuned by obsession.
 ```
