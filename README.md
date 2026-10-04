@@ -1,52 +1,32 @@
 <p align="center">
-  <img src="./Banner.png" alt="Hi, I'm Srishti" width="55%">
+  <img src="./Banner.png" alt="Hi, I'm Srishti" width="100%">
 </p>
-<h2 align="center">WHO AM I</h2>
+<br>
 
-<p align="center">
-  I'm Srishti — a developer exploring the intersection of Artificial Intelligence, cybersecurity, and software development.
-  I enjoy understanding how systems work, building intelligent applications, and exploring how AI can be made more secure.
-</p>
-<h2 align="center">WHAT I DO</h2>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<p align="center">
-  I build intelligent applications and explore the systems behind them.
-  My focus spans Generative AI, Agentic AI, LLMs, RAG, and AI security —
-  while building the foundations needed to turn ideas into working systems.
-</p>
-<h2 align="center">VISION</h2>
+<h2>WHO AM I</h2>
+A developer exploring the intersection of **AI, cybersecurity, and software development**.
 
-<p align="center">
-  I want to build technology that is not only intelligent, but secure.
-  My goal is to explore the boundaries of AI, understand the systems behind it,
-  and create things that are useful, meaningful, and built to last.
-</p>
-<h2 align="center">SKILL SET</h2>
+I like understanding how systems work, building intelligent applications, and exploring how technology can be made more secure.
 
-<h3>LANGUAGES</h3>
+</td>
 
-Python · C++ · JavaScript · SQL · Bash
+<td width="45%" valign="top">
 
-<h3>AI / ML</h3>
+<h3>WHAT I'M INTO</h3>
 
-Generative AI · Agentic AI · LLMs · RAG · NLP · Deep Learning
+🤖 **Artificial Intelligence**  
+🧠 **LLMs & RAG**  
+🛡️ **AI Security**  
+⚙️ **Software Engineering**  
+🔗 **AI Infrastructure**
 
-<h3>AI SECURITY</h3>
+</td>
+</tr>
+</table>
 
-LLM Security · Prompt Injection · AI Red Teaming
+<br>
 
-<h3>AI INFRASTRUCTURE</h3>
-
-LangChain · LangGraph · pgvector · Redis
-
-<h3>BLOCKCHAIN</h3>
-
-Blockchain · Smart Contracts · Cryptography
-
-<h3>FRONTEND</h3>
-
-HTML · CSS · JavaScript
-
-<h3>TOOLS</h3>
-
-Git · Linux · FastAPI · Docker
