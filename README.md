@@ -37,8 +37,19 @@
 ![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=MY+GOAL+IS+TO+KEEP+PVSHING+MY+VNDERSTANDING+OF)
 ![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=INTELLIGENT+SYSTEMS+AND+TVRN+AMBITIOVS+IDEAS+INTO)
 ![](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=THINGS+THAT+ACTVALLY+WORK.)
-### `> always`
 
+## [PROJECTS](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=26&color=FFFFFF&background=00000000&width=400&height=36&duration=2500&pause=0&repeat=false&lines=PROJECTS)
+
+[#-projects](#-projects)
+
+**[DocMind](https://github.com/Srishti233/DocMind)** · local, CPU-only multi-document RAG with cited answers  
+**[Aegis](https://github.com/Srishti233/Aegis)** · firewall for LLM apps: blocks prompt injection, redacts PII  
+**[Gauntlet](https://github.com/Srishti233/Gauntlet)** · red-teaming framework for LLM apps and agents  
+**[NEXA](https://github.com/Srishti233/NEXA)** · local voice assistant, no cloud  
+**[BlockForge](https://github.com/Srishti233/BlockForge)** · blockchain built from scratch in Python
+font=Cinzel&weight=500&size=16&color=FFFFFF&background=00000000&width=650&height=28&duration=2500&pause=0&repeat=false&lines=THINGS+THAT+ACTVALLY+WORK.)
+
+### `> always`
 ```text
 building  : systems that understand, adapt, create
 learning  : forever
